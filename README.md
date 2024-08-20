@@ -13,4 +13,4 @@
 1. **Select a Planet**: Start by choosing a planet, each of which has a different set of work and break intervals.
 2. **Begin Your Session**: The timer will start, guiding you through work periods followed by breaks, just like in a typical Pomodoro session.
 
-![Voyager](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fcute-astronaut-shooting-with-gun-pistol-cartoon-vector-icon-illustration-science-technology-icon_26259313.htm&psig=AOvVaw0xvR2zD3cMnCqg3aHTsXqu&ust=1724223442485000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDHxYD_gogDFQAAAAAdAAAAABAE)
+![Voyager](img/splashScreen.jpg)
